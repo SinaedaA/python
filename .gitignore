@@ -1,0 +1,5 @@
+data/
+results/
+.ds_store/
+plots/
+scripts/*.ipynb
