@@ -3,3 +3,4 @@ results/
 .ds_store/
 plots/
 scripts/*.ipynb
+scripts/.ipynb_checkpoints/
